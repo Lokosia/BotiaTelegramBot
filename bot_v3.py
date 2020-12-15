@@ -1,5 +1,5 @@
 import telegram
-TOKEN = '1268365491:AAGmlas6mpDglUDRcLspq48cqvqe0C9aHVw'
+TOKEN = ''
 bot = telegram.Bot(TOKEN)
 
 print(bot.get_me())
