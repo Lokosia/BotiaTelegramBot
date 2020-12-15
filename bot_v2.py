@@ -1,4 +1,4 @@
-TOKEN = '1268365491:AAGmlas6mpDglUDRcLspq48cqvqe0C9aHVw'
+TOKEN = ''
 
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters
 updater = Updater(token=TOKEN, use_context=True)
