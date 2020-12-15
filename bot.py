@@ -1,7 +1,7 @@
 import telebot
 import sqlite3
 
-TOKEN = '1268365491:AAGmlas6mpDglUDRcLspq48cqvqe0C9aHVw'
+TOKEN = ''
 #Bot init
 bot = telebot.TeleBot(TOKEN, parse_mode='HTML')
 
